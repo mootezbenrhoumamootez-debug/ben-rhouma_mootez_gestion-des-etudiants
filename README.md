@@ -20,7 +20,7 @@ Persistance des données via localStorage
 Interface responsive et moderne
 
 Lien vers la page GitHub Pages (rendu final)
-
+https://mootezbenrhoumamootez-debug.github.io/ben-rhouma_mootez_gestion-des-etudiants/
 Nouveautés explorées
 Utilisation avancée des variables CSS : Création d'un système de design cohérent avec des couleurs définies
 Animations CSS complexes : Implémentation de keyframes pour fadeIn, slideOut et highlight
